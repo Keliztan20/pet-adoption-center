@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/Keliztan20/pet-adoption-center/issues"
   },
-  "homepage": "https://github.com/Keliztan20/pet-adoption-center#readme"
+  "homepage": "https://github.com/Keliztan20/pet-adoption-center#readme",
+  "dependencies": {
+    "react-scripts": "^3.0.1"
+  }
 }
